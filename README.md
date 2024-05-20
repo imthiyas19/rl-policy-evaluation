@@ -1,3 +1,5 @@
+
+
 # POLICY EVALUATION
 
 ## AIM
@@ -37,7 +39,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ## PROGRAM:
 
 ```
-Name: MOHAMMED IMTHIYAS.M
+Name: MOHAMMED IMTHIYAS
 Reg No: 212222230083
 ```
 
