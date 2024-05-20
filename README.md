@@ -78,10 +78,20 @@ else:
 
 ## OUTPUT:
 ### Policy 1
-![rl-policy-evaluation](1.png)
-### Policy 2
-![rl-policy-evaluation](2.png)
+
+![1](https://github.com/imthiyas19/rl-policy-evaluation/assets/120353416/d2198f91-7303-445f-b883-ee2697924e1e)
+
+
+### Policy 
+
+![2](https://github.com/imthiyas19/rl-policy-evaluation/assets/120353416/fd418ce1-f42a-4a02-87e3-bd6ab393110b)
+
+
 ###
-![rl-policy-evaluation](3.png)
+![3](https://github.com/imthiyas19/rl-policy-evaluation/assets/120353416/62e3cf71-b1d7-4289-8da6-466b848f919c)
+
+
+
+
 ## RESULT:
 Thus the Given Policy have been Evaluated and Optimal Policy has been Computed using Python Programming.
